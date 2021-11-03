@@ -25,10 +25,11 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/firebase-logo.png"></code>
 <br/>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/77845105/140057716-c230bb26-6b9f-4eb5-a740-64cd9e7cefb4.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"></code>
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/77845105/140057823-082d333d-b4a5-4727-b03f-4e3a003755e8.png"/></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Sh_y95E_kbXOuzcT4j3BFzY2ucavlQkKDQ&usqp=CAU"></code>
 </p>
 
